@@ -1,21 +1,13 @@
 .nav_design{
-    background-color: #ffba1895;
+    background-color: #bd8500;
 }
-.btn-submit{
-    background-color: #000000;
+.submit_btn{
+    background-color: #bd8500;
     color: white;
     font-weight: 700;
-    padding: 12px 32px;
+    padding: 10px 28px;
 }
-.btn-submit:hover{
-    border: 2px solid black;
-}
-.form-design{
-    margin-top: 200px;
-}
-#exampleInputPassword1{
-    max-width: 400px;
-}
-#exampleInputEmail1{
-    max-width: 400px;
+.submit_btn:hover{
+    border: 1px solid #bd8500;
+    color: #bd8500;
 }
