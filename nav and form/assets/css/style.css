@@ -1,5 +1,5 @@
 .nav_design{
-    background-color: #bd8500;
+    background-color: #bd8400f0;
 }
 .submit_btn{
     background-color: #bd8500;
@@ -10,4 +10,10 @@
 .submit_btn:hover{
     border: 1px solid #bd8500;
     color: #bd8500;
+}
+.form_design_main{
+    margin-top: 150px;
+}
+body{
+    background-color: #f7ad017d;
 }
