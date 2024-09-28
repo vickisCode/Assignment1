@@ -41,3 +41,13 @@ body{
     font-size: 15px;
     font-weight: 400;
 }
+.about-head{
+    color: #F19959;
+    font-size: 32px;
+}
+.about-paragraph{
+    font-size: 15px;
+}
+.about-main{
+    color: #F29890;
+}
